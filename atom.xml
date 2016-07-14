@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>EAWiFi</title>
-  
+  <subtitle>欧美通路由器</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://eawifi.net/"/>
-  <updated>2016-07-14T04:21:58.000Z</updated>
+  <updated>2016-07-14T09:25:59.000Z</updated>
   <id>http://eawifi.net/</id>
   
   <author>
@@ -16,11 +16,150 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>EAWiFi 连接教程</title>
-    <link href="http://eawifi.net/iHostsChangeLog.html"/>
-    <id>http://eawifi.net/iHostsChangeLog.html</id>
-    <published>2016-05-12T09:15:41.000Z</published>
-    <updated>2016-07-14T04:21:58.000Z</updated>
+    <title>EAWiFi - 连接教程</title>
+    <link href="http://eawifi.net/howto/connect.html"/>
+    <id>http://eawifi.net/howto/connect.html</id>
+    <published>2016-08-08T00:08:08.000Z</published>
+    <updated>2016-07-14T09:25:59.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;strong&gt;EAWiFi&lt;/strong&gt;（Europe-American WiFi, 欧美通路由器）使用非常简单，即插即用。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;连接电源。注意按下电源插口边上的按钮，通电时前面板指示灯会亮起。&lt;br&gt;&lt;img src=&quot;http://p.appsites.io/blog/2016-07-14_1.JPG&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
+&lt;li&gt;将 EAWiFi 的 WAN 网口（黄色）与已有路由器的 LAN 网口（通常是蓝色）连接。&lt;br&gt;&lt;img src=&quot;http://p.appsites.io/blog/2016-07-14_2.JPG&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
+&lt;li&gt;稍等片刻，让 EAWiFi 完成启动。&lt;/li&gt;
+&lt;li&gt;在手机或电脑上连接 WiFi，其中&lt;br&gt;&lt;img src=&quot;http://p.appsites.io/blog/2016-07-14_17:07:29.jpg&quot; alt=&quot;&quot;&gt;&lt;ul&gt;
+&lt;li&gt;EAWiFi2 为 2.4G WiFi，优点为穿墙能力强&lt;/li&gt;
+&lt;li&gt;EAWiFi5 为 5G WiFi，优点为传输速度快；如果看不到，说明手机或电脑不支持&lt;/li&gt;
+&lt;li&gt;二者密码相同，均在路由器背面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;马上打开 &lt;a href=&quot;https://www.google.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google&lt;/a&gt;、&lt;a href=&quot;https://www.facebook.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Facebook&lt;/a&gt;、&lt;a href=&quot;https://twitter.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Twitter&lt;/a&gt; 试试吧，不要太惊喜哦 ~&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;使用欧美通路由器，电脑、手机端无需设置，即可畅享真正的全球互联网。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EAWiFi，能自动翻墙的路由器&lt;/strong&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;http://p.appsites.io/blog/2016-07-14_EAWiFi_0.5x.png&quot; alt=&quot;2016-07-14_EAWiFi_0.5x.png&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;EAWiFi&lt;/strong&gt;（Europe-American WiFi, 欧美通路由器）使用非常简单，即插即用。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;连接电源。注意按下电源插口边上的按钮，通电时前面板指示灯会亮起。&lt;br&gt;&lt;img src=&quot;http://p.appsites.io/blog/2016-07-14_1.JPG&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
+&lt;li&gt;将 EAWiFi 的 WAN 网口（黄色）与已有路由器的 LAN 网口（通常是蓝色）连接。&lt;br&gt;&lt;img src=&quot;http://p.appsites.io/blog/2016-07-14_2.JPG&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
+&lt;li&gt;稍等片刻，让 EAWiFi 完成启动。&lt;/li&gt;
+&lt;li&gt;在手机或电脑上连接 WiFi，其中&lt;br&gt;&lt;img src=&quot;http://p.appsites.io/blog/2016-07-14_17:07:29.jpg&quot; alt=&quot;&quot;&gt;&lt;ul&gt;
+&lt;li&gt;EAWiFi2 为 2.4G WiFi，优点为穿墙能力强&lt;/li&gt;
+&lt;li&gt;EAWiFi5 为 5G WiFi，优点为传输速度快；如果看不到，说明手机或电脑不支持&lt;/li&gt;
+&lt;li&gt;二者密码相同，均在路由器背面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;马上打开 &lt;a href=&quot;https://www.google.com/&quot;&gt;Google&lt;/a&gt;、&lt;a href=&quot;https://www.facebook.com/&quot;&gt;Facebook&lt;/a&gt;、&lt;a href=&quot;https://twitter.com/&quot;&gt;Twitter&lt;/a&gt; 试试吧，不要太惊喜哦 ~&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;使用欧美通路由器，电脑、手机端无需设置，即可畅享真正的全球互联网。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EAWiFi，能自动翻墙的路由器&lt;/strong&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="使用教程" scheme="http://eawifi.net/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>EAWiFi - 在路由器中连接宽带</title>
+    <link href="http://eawifi.net/howto/pppoe.html"/>
+    <id>http://eawifi.net/howto/pppoe.html</id>
+    <published>2016-08-08T00:08:07.000Z</published>
+    <updated>2016-07-14T08:14:55.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="使用教程" scheme="http://eawifi.net/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>EAWiFi - 修改 WiFi 密码</title>
+    <link href="http://eawifi.net/howto/wifi_pwd.html"/>
+    <id>http://eawifi.net/howto/wifi_pwd.html</id>
+    <published>2016-08-08T00:08:06.000Z</published>
+    <updated>2016-07-14T08:14:58.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="使用教程" scheme="http://eawifi.net/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>EAWiFi - 修改路由器密码</title>
+    <link href="http://eawifi.net/howto/router_pwd.html"/>
+    <id>http://eawifi.net/howto/router_pwd.html</id>
+    <published>2016-08-08T00:08:05.000Z</published>
+    <updated>2016-07-14T08:15:00.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="使用教程" scheme="http://eawifi.net/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>EAWiFi - 修改 ShadowSocks 账户</title>
+    <link href="http://eawifi.net/howto/ss_account.html"/>
+    <id>http://eawifi.net/howto/ss_account.html</id>
+    <published>2016-08-08T00:08:03.000Z</published>
+    <updated>2016-07-14T08:15:03.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="使用教程" scheme="http://eawifi.net/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>EAWiFi - 查看 ShadowSocks 流量</title>
+    <link href="http://eawifi.net/howto/ss_trafic.html"/>
+    <id>http://eawifi.net/howto/ss_trafic.html</id>
+    <published>2016-08-08T00:08:02.000Z</published>
+    <updated>2016-07-14T08:15:05.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="使用教程" scheme="http://eawifi.net/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>EAWiFi - 恢复系统设置</title>
+    <link href="http://eawifi.net/howto/reset.html"/>
+    <id>http://eawifi.net/howto/reset.html</id>
+    <published>2016-08-08T00:08:01.000Z</published>
+    <updated>2016-07-14T08:15:07.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;&lt;em&gt;2016 年 5 月 23日&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;

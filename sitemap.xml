@@ -2,7 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://eawifi.net/iHostsChangeLog.html</loc>
+    <loc>http://eawifi.net/howto/connect.html</loc>
+    
+    <lastmod>2016-07-14T09:25:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eawifi.net/howto/index.html</loc>
+    
+    <lastmod>2016-07-14T09:22:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eawifi.net/howto/reset.html</loc>
+    
+    <lastmod>2016-07-14T08:15:07.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eawifi.net/howto/ss_trafic.html</loc>
+    
+    <lastmod>2016-07-14T08:15:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eawifi.net/howto/ss_account.html</loc>
+    
+    <lastmod>2016-07-14T08:15:03.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eawifi.net/howto/router_pwd.html</loc>
+    
+    <lastmod>2016-07-14T08:15:00.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eawifi.net/howto/wifi_pwd.html</loc>
+    
+    <lastmod>2016-07-14T08:14:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eawifi.net/howto/pppoe.html</loc>
+    
+    <lastmod>2016-07-14T08:14:55.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eawifi.net/contact/index.html</loc>
     
     <lastmod>2016-07-14T04:21:58.000Z</lastmod>
     

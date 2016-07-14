@@ -4,18 +4,141 @@
 
     
   <url>
-    <loc>http://eawifi.net/iHostsChangeLog.html</loc>
-    <lastmod>2016-07-14T04:21:58.000Z</lastmod>
+    <loc>http://eawifi.net/howto/connect.html</loc>
+    <lastmod>2016-07-14T09:25:59.000Z</lastmod>
     <data>
         <display>
-        <title>EAWiFi 连接教程</title>
-        <pubTime>2016-05-12T09:15:41.000Z</pubTime>
+        <title>EAWiFi - 连接教程</title>
+        <pubTime>2016-08-08T00:08:08.000Z</pubTime>
         
          
            
              
               <breadCrumb title="使用教程" url="http://eawifi.net/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://eawifi.net/howto/reset.html</loc>
+    <lastmod>2016-07-14T08:15:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>EAWiFi - 恢复系统设置</title>
+        <pubTime>2016-08-08T00:08:01.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="使用教程" url="http://eawifi.net/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://eawifi.net/howto/ss_trafic.html</loc>
+    <lastmod>2016-07-14T08:15:05.000Z</lastmod>
+    <data>
+        <display>
+        <title>EAWiFi - 查看 ShadowSocks 流量</title>
+        <pubTime>2016-08-08T00:08:02.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="使用教程" url="http://eawifi.net/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://eawifi.net/howto/ss_account.html</loc>
+    <lastmod>2016-07-14T08:15:03.000Z</lastmod>
+    <data>
+        <display>
+        <title>EAWiFi - 修改 ShadowSocks 账户</title>
+        <pubTime>2016-08-08T00:08:03.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="使用教程" url="http://eawifi.net/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://eawifi.net/howto/router_pwd.html</loc>
+    <lastmod>2016-07-14T08:15:00.000Z</lastmod>
+    <data>
+        <display>
+        <title>EAWiFi - 修改路由器密码</title>
+        <pubTime>2016-08-08T00:08:05.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="使用教程" url="http://eawifi.net/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://eawifi.net/howto/wifi_pwd.html</loc>
+    <lastmod>2016-07-14T08:14:58.000Z</lastmod>
+    <data>
+        <display>
+        <title>EAWiFi - 修改 WiFi 密码</title>
+        <pubTime>2016-08-08T00:08:06.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="使用教程" url="http://eawifi.net/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://eawifi.net/howto/pppoe.html</loc>
+    <lastmod>2016-07-14T08:14:55.000Z</lastmod>
+    <data>
+        <display>
+        <title>EAWiFi - 在路由器中连接宽带</title>
+        <pubTime>2016-08-08T00:08:07.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="使用教程" url="http://eawifi.net/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://eawifi.net/contact/index.html</loc>
+    <lastmod>2016-07-14T04:21:58.000Z</lastmod>
+    <data>
+        <display>
+        <title>EAWiFi 连接教程</title>
+        <pubTime>2016-07-14T04:31:05.000Z</pubTime>
+        
+         
         </display>
     </data>
     </url>
