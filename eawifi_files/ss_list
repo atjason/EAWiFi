@@ -1,0 +1,16 @@
+
+config ss_list 'ss'
+	option count '4'
+
+config ss_list '0'
+	option ip '47.90.43.236'
+
+config ss_list '1'
+	option ip '45.32.33.252'
+
+config ss_list '2'
+	option ip '47.90.43.236'
+
+config ss_list '3'
+	option ip '104.238.180.125'
+
