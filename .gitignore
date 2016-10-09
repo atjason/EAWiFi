@@ -1,0 +1,5 @@
+
+# Ignore sensitive files.
+eawifi_files/compress.sh
+eawifi_files/ss_list
+
